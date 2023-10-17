@@ -1,0 +1,4 @@
+1. print - "I am a C developer" 
+2. declare two variables of type int and initialize them with 10 and 20 respectively and print their product 
+    the output should be like this:
+        The product of 10 and 20 is 200
