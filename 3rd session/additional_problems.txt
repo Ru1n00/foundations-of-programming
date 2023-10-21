@@ -1,0 +1,6 @@
+hints: use if..else
+
+1. Write a C program to find maximum between two numbers. take two interger from user
+2. Write a C program to find maximum between three numbers. take three interger from user
+3. Write a C program to check whether user entered the char 'x' or not in input
+4. Write a C program to make a simple calculator.
