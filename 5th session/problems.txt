@@ -1,0 +1,5 @@
+1. try to find the remainder when 189 is divided by 13 using (*, /, -) operators
+2. Write a C program to check whether a number is divisible by 5 and 11 or not.
+3. Write a C program to check whether a number is even or odd.
+4. Write a C program to input any alphabet and check whether it is vowel or consonant.
+5. Write a C program to input days and convert it into year, month and days
