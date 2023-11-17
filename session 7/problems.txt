@@ -1,0 +1,12 @@
+1. write a c Program to create a simple calculator using switch
+        example input and output -
+        input: 13 23 +
+        output: 36
+
+        input: 23 2 *
+        output: 46
+
+2. write a c program that takes an int as input. If the int is 100 print century. if the int is 50 print half-century. and if the int is 0 print duck. (use a switch)
+
+
+3. modify our guessing game (using_break_in_loop.c) so that the user can only have 10 tries
