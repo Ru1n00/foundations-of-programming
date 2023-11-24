@@ -1,0 +1,12 @@
+1. Write a C program to print multiplication table of any number. (try to use foor loop)
+2. Write a C program to print A to Z.
+3. Write a C program to count number of digits in a number.
+    example input and output -
+    input: 4184562
+    output: 7
+
+    input: 343
+    output: 3
+
+4. Write a C program to print p to z and a - o.
+    output: p q r s t u v w x y z a b c d e f g h i j k l m n o
